@@ -2,16 +2,6 @@
 
 ![ga](http://mobbook.generalassemb.ly/ga_cog.png)
 
-# WDIR-Gizmo
-
----
-Title: CSS Modal <br>
-Type: Morning Exercise<br>
-Creator: Kristyn Bryan<br>
-Course: WDIR-Hopper<br>
-Competencies: CSS, HTML<br>
-
----
 
 # Modals
 
@@ -25,6 +15,18 @@ We're going to be creating a modal using HTML, CSS, and JavaScript.
 
 1. Create A simple express route with one view.
 2. Create a Gulp file and setup less (make sure it converts the less file into the public folder.
+3. Add Jquery to your file
+4. Add the following code to your file
+```
+body {
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/5c/7a/93/5c7a9388fd4cb59fcbb9fedc5fa12bd3.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+
+```
 
 
 ## The Activity
